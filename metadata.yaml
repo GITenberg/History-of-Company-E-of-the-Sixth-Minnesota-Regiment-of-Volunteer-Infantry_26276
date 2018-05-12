@@ -1,0 +1,35 @@
+_repo: History-of-Company-E-of-the-Sixth-Minnesota-Regiment-of-Volunteer-Infantry_26276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hill, A. J. (Alfred James)
+    birthdate: 1833
+    deathdate: 1895
+    gutenberg_agent_id: '31892'
+    url: http://www.gutenberg.org/2009/agents/31892
+  - agent_name: Stees, Charles J.
+    gutenberg_agent_id: '31893'
+    url: http://www.gutenberg.org/2009/agents/31893
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Dakota Indians -- Wars -- 1862-1865'
+- !lcsh 'Minnesota -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Minnesota Infantry Regiment, 6th (1862-1865). Company
+  E'
+- !lcsh 'Indians of North America -- Wars -- 1862-1865'
+title: History of Company E of the Sixth Minnesota Regiment of Volunteer Infantry
+url: http://www.gutenberg.org/ebooks/26276
